@@ -1,0 +1,7 @@
+/js/node_modules/
+/node_modules/
+/js/config/twitter_cred.js
+/mongo-express/
+/py/dataset/
+*.bin
+*.pyc
